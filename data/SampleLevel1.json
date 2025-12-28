@@ -1,18 +1,19 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
+    "name": "Subsuming Vortex (Renn241)",
     "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "creators": ["SeptaGon7", "Renn241"],
+    "verifier": "Cursed",
+    "verification": "https://youtu.be/0eYG1ogJpIQ?si=D-Mz66LqmniybutK",
+    "percentToQualify": 100,
+    "password": "Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Zoink",
+            "link": "",
             "percent": 100,
-            "hz": 360
+            "hz": 360,
+            "CBF": "Yes"
         }
     ]
 }
