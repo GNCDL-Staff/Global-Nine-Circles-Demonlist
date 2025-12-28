@@ -1,27 +1,17 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "TwistedAI 🜲",
+        "link": "https://youtube.com/@twistedai_gncdl_official?si=S4WdNxQFPxqg4Eqd"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Goofy Goober",
+        "link": ""
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "List Editor",
+        "name": "ILikeBaguette",
+        "link": "https://youtube.com/@piano25gaming?si=AF4p7C0mEfVWrAuX"
     },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    }
 ]
